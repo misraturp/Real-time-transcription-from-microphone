@@ -4,7 +4,11 @@ Transcribing in real-time is a super skill only court reporters can brag about. 
 
 In this video, we will see how to create this script on Python with the help of pyaudio, web sockets and asynchronous functions. The app will have the power to listen to audio input through a microphone and display the transcription in real-time. We will integrate this code into a simple Streamlit application to showcase the real-time speech recognition with a touch of interactivity.
 
-If you’d like to follow along, don’t forget to get your own AssemblyAI API token for free at [assemblyai.com](https://www.assemblyai.com?utm_source=youtube&utm_medium=referral&utm_campaign=channel_assemblyai)
+👍 If you’d like to use this code, don’t forget to get your own AssemblyAI API token for free at [assemblyai.com](https://www.assemblyai.com?utm_source=youtube&utm_medium=referral&utm_campaign=channel_assemblyai)
 
-Find the video tutorial for this repo here: [Real Time Speech Recognition with Python](https://www.assemblyai.com/blog/real-time-speech-recognition-with-python/)
-Find the written form of the tutorial here: [Real Time Speech Recognition with Python](https://www.assemblyai.com/blog/real-time-speech-recognition-with-python/)
+� Find the video tutorial for this repo here: [Real Time Speech Recognition with Python](https://www.assemblyai.com/blog/real-time-speech-recognition-with-python/)
+✍️ Find the written form of the tutorial here: [Real Time Speech Recognition with Python](https://www.assemblyai.com/blog/real-time-speech-recognition-with-python/)
+
+Dependencies:
+* pyaudio
+* websockets
