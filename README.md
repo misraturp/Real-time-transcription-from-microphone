@@ -6,7 +6,7 @@ In this video, we will see how to create this script on Python with the help of 
 
 👍 If you’d like to use this code, don’t forget to get your own AssemblyAI API token for free at [assemblyai.com](https://www.assemblyai.com?utm_source=youtube&utm_medium=referral&utm_campaign=channel_assemblyai)
 
-� Find the video tutorial for this repo here: [Real Time Speech Recognition with Python](https://www.assemblyai.com/blog/real-time-speech-recognition-with-python/)
+🎥 Find the video tutorial for this repo here: [Real Time Speech Recognition with Python](https://www.assemblyai.com/blog/real-time-speech-recognition-with-python/)
 ✍️ Find the written form of the tutorial here: [Real Time Speech Recognition with Python](https://www.assemblyai.com/blog/real-time-speech-recognition-with-python/)
 
 Dependencies:
